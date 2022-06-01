@@ -1,0 +1,14 @@
+1. https://github.com/Unity-Technologies/ml-agents
+Reason: I chose this project because it allows users to simulate and train AI for basically any kind of game. Since games are becoming more advanced each year I feel like having an environment where you can experiment with AI before actually implementing them into your games to be extremely beneficial for developers.
+
+2. https://github.com/mxgmn/WaveFunctionCollapse
+Reason: I chose this project because being able to take an initial image and making allowing a program to make a similar image that follows the same patterns based on a phenomenon in quantum mechanics known as the Wave Function Collapse sounds very interesting and useful to make simple 2d levels.
+
+3. https://github.com/microsoft/AirSim.git
+Reason: The reason why I chose this is because being able to simulate drones and other similar vehicles in an environment without any real danger is extremely useful for training purposes or even research purposes.
+
+4. https://github.com/yuzu-emu/yuzu.git
+Reason: The reason why I chose this is because I find emulation very interesting since it basically requires people to reverse engineer existing game engines in order to essentially port them into other platforms. The reason why I chose this specific emulator is because I find it fascinating how people were able to create an emulator of such a "recent" console like the Nintendo Switch.
+
+5. https://github.com/github/gitignore.git
+Reason: The main reason why I chose this is because it is required but it also helped me understand that gitignore files are very used as this is the repo with the most stars out of my five choices which means that a really big amount of people use this repo. 
